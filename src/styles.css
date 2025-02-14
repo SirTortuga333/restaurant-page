@@ -138,3 +138,14 @@ header > nav > button:active{
 .menu-separator{
     color: #ffa500;
 }
+
+.about{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+}
+
+.about > img{
+    border-radius: 1rem;
+}
